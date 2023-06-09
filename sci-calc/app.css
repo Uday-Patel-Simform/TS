@@ -20,7 +20,7 @@ body {
 }
 
 .cal-display {
-    height: 50px;
+    height: 65px;
     font-size: 30px;
     overflow-x: scroll;
     overflow-y: hidden;
